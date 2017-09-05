@@ -1,2 +1,1 @@
-# -
-莆田系医院
+# PuTianXi Hospital
